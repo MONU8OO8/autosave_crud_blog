@@ -3,7 +3,9 @@ This website includes all crud operations
 
 # start application
 ### `cd client`
-### `yarn`
+### `npm i`
+### `npm start`
 
 ### `cd server`
 ### `npm i`
+### `node ./index.js`
